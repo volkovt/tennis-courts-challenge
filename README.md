@@ -31,7 +31,7 @@ The actual code has the below user stories already implemented. You should compl
  **- Implement all the missing Restful swagger statements and the API paths to the controllers**
  
  **- Check why rescheduleReservation in the class ReservationService.java is not working correctly and fix it**
- 
+  
 # Assumptions 
 ●	No authentication/authorization system is required 
 
